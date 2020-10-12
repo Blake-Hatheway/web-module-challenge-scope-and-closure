@@ -41,7 +41,7 @@ function counterMaker() {
    return count++;
   }
 }
-
+This is rough
 const counter1 = counterMaker();
 
 // counter2 code
